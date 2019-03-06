@@ -1,0 +1,10 @@
+plugins:
+  chat_integration_simpletelegram_enabled:
+    default: false
+  chat_integration_simpletelegram_access_token:
+    default: ''
+  chat_integration_simpletelegram_excerpt_length:
+    default: 400
+  chat_integration_simpletelegram_secret:
+    default: ''
+    hidden: true
